@@ -1,0 +1,11 @@
+C:\Users\Lerato Letsepe\source\repos\DebugWorkshop2020Prac2\bin\Debug\netcoreapp3.1\debugws2.exe
+C:\Users\Lerato Letsepe\source\repos\DebugWorkshop2020Prac2\bin\Debug\netcoreapp3.1\debugws2.deps.json
+C:\Users\Lerato Letsepe\source\repos\DebugWorkshop2020Prac2\bin\Debug\netcoreapp3.1\debugws2.runtimeconfig.json
+C:\Users\Lerato Letsepe\source\repos\DebugWorkshop2020Prac2\bin\Debug\netcoreapp3.1\debugws2.runtimeconfig.dev.json
+C:\Users\Lerato Letsepe\source\repos\DebugWorkshop2020Prac2\bin\Debug\netcoreapp3.1\debugws2.dll
+C:\Users\Lerato Letsepe\source\repos\DebugWorkshop2020Prac2\bin\Debug\netcoreapp3.1\debugws2.pdb
+C:\Users\Lerato Letsepe\source\repos\DebugWorkshop2020Prac2\obj\Debug\netcoreapp3.1\debugws2.csprojAssemblyReference.cache
+C:\Users\Lerato Letsepe\source\repos\DebugWorkshop2020Prac2\obj\Debug\netcoreapp3.1\debugws2.AssemblyInfoInputs.cache
+C:\Users\Lerato Letsepe\source\repos\DebugWorkshop2020Prac2\obj\Debug\netcoreapp3.1\debugws2.AssemblyInfo.cs
+C:\Users\Lerato Letsepe\source\repos\DebugWorkshop2020Prac2\obj\Debug\netcoreapp3.1\debugws2.dll
+C:\Users\Lerato Letsepe\source\repos\DebugWorkshop2020Prac2\obj\Debug\netcoreapp3.1\debugws2.pdb
